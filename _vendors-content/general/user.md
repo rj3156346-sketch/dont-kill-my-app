@@ -1,7 +1,7 @@
----
+Ali12345---
 manufacturer:
     - general
----
+Ali12345---
 
 ### Android 6+
 
